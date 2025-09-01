@@ -1,0 +1,29 @@
+body{
+    background-image: url(./Screenshot\ 2025-07-04\ 005249.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: rgb(240, 233, 233);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+
+
+
+
+#content {
+text-align: center;
+padding-top: 25%;
+color: rgb(199, 221, 221);
+text-shadow: 0px 4px 3px red,
+             0px 8px 13px orangered,
+             0px 23px 30px yellow;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 5em;
+
+}
+
