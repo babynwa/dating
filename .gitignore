@@ -1,0 +1,5 @@
+# ignore enviroent veriables
+.env 
+
+# ignore dating.html
+.dating.html
